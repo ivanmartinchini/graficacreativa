@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grafica Creativa",
-    "currentPage": "index.html",
+    "currentPage": "mktonline.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -31,8 +31,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Grafica Creativa",
+        "meta_descr": "Contamos con maquinarias propias de máxima tecnología y calidad de impresión tanto en Offset, Digital y gran formato ubicados en CABA. Con el tiempo nos fuimos capacitando junto a nuestro grupo de trabajo joven y pujante e incorporamos a nuestra cartera de productos el servicio de Marketing Digital con lo cuál contamos con una estructura para desarrollar todo tipo de trabajo y campañas publicitarias que lleven a nuestros clientes al éxito.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -515,8 +515,8 @@
     },
     "grafica.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "Servicios de impresiones gráficas y diseños",
+        "meta_descr": "Tener presencia en el ambiente físico es la parte más importante de la publicidad. Una manera eficiente y directa de hacer llegar la información de tu negocio a tu potencial cliente, ya sea informativo, persuasivo o recordatorio. Comunicar al público de tu existencia mantendrá vivo a tu negocio."
       },
       "components": [
         {
@@ -1195,8 +1195,8 @@
     },
     "mktonline.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "Servicios de Marketing Online",
+        "meta_descr": "Las redes sociales hoy en día cumple un rol importante al momento de vender un producto a un potencial cliente. La comunicación es lo más importante para un negocio. Podes tener el mejor producto del mundo, pero si no lo comunicas tu público jamás sabrá que existe. Por eso mismo nuestra empresa ofrece una solución, es decir, la administración de tus redes sociales. Optimizando tu tiempo y gastos para que puedas vender más!"
       },
       "components": [
         {
