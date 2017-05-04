@@ -435,7 +435,8 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-8",
@@ -469,7 +470,7 @@
           },
           "text1": "<font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br><font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Riobamba 40<br>Buenos Aires, Lanús Oeste",
           "text2": "<strong>Contacto</strong><br>\nEmail: g3graficacreativa@gmail.com<br>Teléfono: 4225 - 0008<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br>Marketing Online<br>Impresiones Gráficas<br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br><a href=\"mktonline.html\" class=\"text-success\">Marketing Online</a><br><a href=\"grafica.html\" class=\"text-success\">Impresiones Gráficas</a><br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
         },
         {
           "_tags": [
@@ -1281,7 +1282,7 @@
             "showCaption": true
           },
           "title": "<span style=\"font-weight: normal;\">Administración de redes sociales</span>",
-          "caption": "<p>Tener presencia en el ambiente físico es la parte más importante de la publicidad. Una manera eficiente y directa de hacer llegar la información de tu negocio a tu potencial cliente, ya sea informativo, persuasivo o recordatorio. Comunicar al público de tu existencia mantendrá vivo a tu negocio.</p>"
+          "caption": "<p>Las <b>redes sociales </b>hoy en día cumple un rol importante al momento de vender un producto a un potencial cliente. La comunicación es lo más importante para un negocio. Podes tener el mejor producto del mundo, pero si no lo comunicas tu público jamás sabrá que existe. Por eso mismo nuestra empresa ofrece una solución, es decir, la administración de tus redes sociales. Optimizando tu tiempo y gastos para que puedas vender más!</p>"
         },
         {
           "_styles": {
@@ -1873,7 +1874,8 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-11",
@@ -1910,7 +1912,7 @@
           },
           "text1": "<font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br><font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Riobamba 40<br>Buenos Aires, Lanús Oeste",
           "text2": "<strong>Contacto</strong><br>\nEmail: g3graficacreativa@gmail.com<br>Teléfono: 4225 - 0008<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br>Marketing Online<br>Impresiones Gráficas<br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br><a href=\"mktonline.html\" class=\"text-success\">Marketing Online</a><br><a href=\"grafica.html\" class=\"text-success\">Impresiones Gráficas</a><br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
         },
         {
           "_tags": [
