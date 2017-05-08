@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grafica Creativa",
-    "currentPage": "index.html",
+    "currentPage": "mktonline.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -366,7 +366,7 @@
           "title": "Contactanos<br><br>",
           "subtitle": "<span style=\"font-style: normal;\">Para sugerencias, prensa, trabajar con nosotros o consultar algún presupuesto, puede hacerlo completando el siguiente formulario!</span><br>",
           "form": {
-            "action": "ivanmartinchini@gmail.com",
+            "action": "g3graficacreativa@hotmail.com.ar",
             "alerts": {
               "success": "Gracias por comunicarte con nosotros!"
             },
