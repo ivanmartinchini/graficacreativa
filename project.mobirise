@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grafica Creativa",
-    "currentPage": "page3.html",
+    "currentPage": "promocion.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1941,10 +1941,10 @@
         }
       ]
     },
-    "page3.html": {
+    "promocion.html": {
       "settings": {
-        "title": "Web Page Generator Title",
-        "meta_descr": "Web Page Generator Description"
+        "title": "PROMO JUNIO!",
+        "meta_descr": "Gráfica Industrial"
       },
       "components": [
         {
