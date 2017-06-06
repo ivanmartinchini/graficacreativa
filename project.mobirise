@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Grafica Creativa",
-    "currentPage": "promocion.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1941,7 +1941,7 @@
         }
       ]
     },
-    "promocion.html": {
+    "page3.html": {
       "settings": {
         "title": "PROMO JUNIO!",
         "meta_descr": "Gráfica Industrial"
