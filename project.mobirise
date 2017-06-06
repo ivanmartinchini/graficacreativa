@@ -1165,7 +1165,7 @@
           },
           "text1": "<font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br><font color=\"#001730\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Riobamba 40<br>Buenos Aires, Lanús Oeste",
           "text2": "<strong>Contacto</strong><br>\nEmail: g3graficacreativa@gmail.com<br>Teléfono: 4225 - 0008<br><br>",
-          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br>Marketing Online<br>Impresiones Gráficas<br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
+          "text3": "<strong>Links</strong><br><a href=\"index.html#testimonials1-2\" class=\"text-success\">Quienes somos</a><br><a href=\"index.html#msg-box3-3\" class=\"text-success\">Servicios</a><br><a href=\"mktonline.html\" class=\"text-success\">Marketing Online</a><br><a href=\"grafica.html\" class=\"text-success\">Impresiones Gráficas</a><br><a href=\"index.html#form1-7\" class=\"text-success\">Contacto</a><br>"
         },
         {
           "_tags": [
@@ -2104,10 +2104,10 @@
             "overlayOpacity": "0.9",
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": false
+            "showSubTitle": true
           },
           "title": "Hacé tu pedido",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "<span style=\"font-style: normal;\"> 4225 - 0008</span>",
           "form": {
             "action": "g3graficacreativa@hotmail.com.ar",
             "alerts": {
@@ -2143,6 +2143,12 @@
             ".mbr-section-title": {
               "font-size": "30px",
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "23px"
             }
           }
         },

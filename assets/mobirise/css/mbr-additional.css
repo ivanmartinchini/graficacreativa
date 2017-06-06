@@ -950,6 +950,12 @@ h6,
   font-size: 30px;
   color: #ffffff;
 }
+#form1-1i SMALL {
+  color: #ffffff;
+}
+#form1-1i SPAN {
+  font-size: 23px;
+}
 #ext_menu-1b .hide-buttons .nav-btn {
   display: none !important;
 }
