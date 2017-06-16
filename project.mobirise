@@ -2090,6 +2090,21 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "23px"
+            }
+          },
           "_anchor": "form1-1i",
           "_params": {
             "labelsColor": "#ffffff",
@@ -2109,7 +2124,7 @@
           "title": "Hacé tu pedido",
           "subtitle": "<span style=\"font-style: normal;\"> 4225 - 0008</span>",
           "form": {
-            "action": "g3graficacreativa@hotmail.com.ar",
+            "action": "ivanmartinchini@gmail.com",
             "alerts": {
               "success": "Gracias por comunicarte!"
             },
@@ -2135,22 +2150,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "font-size": "23px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
         },
         {
           "_tags": [
